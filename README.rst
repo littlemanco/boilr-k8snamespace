@@ -36,7 +36,7 @@ Installation
 
 .. Code:: bash
 
-  $ boilr template download littlemanco/boilr-k8snamespace
+  $ boilr template download littlemanco/boilr-k8snamespace k8snamespace 
 
 Usage
 -----
