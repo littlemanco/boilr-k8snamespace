@@ -1,3 +1,7 @@
 {
-  "Namespace": "example-com"
+  "Namespace": "example-com", 
+  "NetworkIsolation": [
+    "on", 
+    "off"
+  ]
 }
